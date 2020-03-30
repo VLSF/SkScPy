@@ -14,7 +14,7 @@ Watch out! Spiders can fly, using the electric field of the Earth. Here one can 
 Some quantum mechanics can't hurt. The problem investigates the toy parametric Hamiltonian, which shows why chemical bonds are real things. The problem mostly exploits previously defined concepts, which includes NumPy and Matplotlib. As a discretization technique, we use finite differences.
 
 # Problem 4: Snowball Earth
-Here we consider a famous energy model with a feedback loop. The sun is shining. The albedo depends on average temperature (ice reflects more than water/vegetation/soil). It turns out that one can push this system into a desperately cold state known as Snowball Earth. The problem involves Newton's method, bifurcation diagrams, and ODE solvers. Along the way, we introduce more advanced functions, dictionaries, and SciPy.
+Here we consider a famous energy balance model with a feedback loop. The sun is shining. The albedo depends on average temperature (ice reflects more than water/vegetation/soil). It turns out that one can push this system into a desperately cold state known as Snowball Earth. The problem involves Newton's method, bifurcation diagrams, and ODE solvers. Along the way, we introduce more advanced functions, dictionaries, and SciPy.
 
 # Problem 5: Newton's fractal
 Well, this is standard. One needs to plot a basin of attraction for Newton's method using a simple function on a complex plane.
