@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dKSDj5sXcuB_dYfnzrkC-Zd1z30q9lL4)
+
 # Introduction
 
 In the Autumn of 2019, I was asked to provide a tutorial on Python for fresh master students of Skoltech (Moscow, Russia). Since the tutorial was a part of an extensive course focused on a broad introduction to scientific tools for researchers, I got only two three-hour sessions. The idea was to pick a few interesting (and simple) scientific problems and solve them with basic Python, gradually introducing more functionality along the way. Although this approach turned out to be a complete failure, I decided to share the problems with solutions, in the hope that someone uses them more wisely. The list of problems include:
